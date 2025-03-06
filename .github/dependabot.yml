@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # Configuration pour les dépendances Gradle
+  - package-ecosystem: "gradle"
+    directory: "/"  # Répertoire contenant le fichier build.gradle (ajuste le chemin si nécessaire)
+    schedule:
+      interval: "weekly"  # Fréquence des mises à jour : "daily", "weekly", "monthly"
+  
+  # Configuration pour les workflows GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"  # Répertoire contenant les workflows GitHub Actions (généralement .github/workflows)
+    schedule:
+      interval: "weekly"  # Fréquence des mises à jour : "daily", "weekly", "monthly"
+   
