@@ -36,3 +36,8 @@ jobs:
       with:
         name: test-results
         path: build/reports/tests/
+
+    - name: Display Test Report in Summary
+      run: |
+        echo "## Test Results" | tee -a $GITHUB_STEP_SUMMARY
+        cat build/reports/tests/test/index.html | tee -a $GITHUB_STEP_SUMMARY || echo "Test report not found."
