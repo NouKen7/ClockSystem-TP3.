@@ -58,5 +58,7 @@ Due to the graphical nature of the Java application, running the GUI may not be 
 
 The badge : 
 ![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/gradle.yml/badge.svg)
+![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/pmd.yml/badge.svg)
+![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/codeql.yml/badge.svg)
 
 
