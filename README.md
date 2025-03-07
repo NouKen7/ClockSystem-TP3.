@@ -60,7 +60,7 @@ The badge :
 ![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/gradle.yml/badge.svg)
 ![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/pmd.yml/badge.svg)
 ![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/codeql.yml/badge.svg)
-![Build Status](https://github.com/NouKen7/ClockSystem-TP3./actions/workflows/scorecard.yml/badge.svg)
+
 
 OpenSSF Scorecard Analysis: ![Build Status](https://github.com/<NouKen7/ClockSystem-TP3./actions/workflows/scorecard.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/NouKen7/ClockSystem-TP3./badge)](https://scorecard.dev/viewer/?uri=github.com/ClockSystem-TP3.)
 
